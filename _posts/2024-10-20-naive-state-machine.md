@@ -1,7 +1,7 @@
 ---
 title: A naive State Machine
 description: >-
-  Implementing a naive state machine for fun
+  Implementing a naive state machine just for fun
 date: 2024-10-20 18:00:00 +0100
 categories: [Python]
 tags: [python,state-machine]
