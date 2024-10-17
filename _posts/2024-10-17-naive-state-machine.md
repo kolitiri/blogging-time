@@ -2,9 +2,9 @@
 title: A naive State Machine
 description: >-
   Implementing a naive state machine just for fun
-date: 2024-10-17 18:00:00 +0100
+date: 2024-10-17 07:30:00 +0100
 categories: [Python]
-tags: [python,statemachine]
+tags: [python,statemachines]
 tok: true
 ---
 
