@@ -4,7 +4,7 @@ description: >-
   Using Python metaclasses to add special logic in a class
 date: 2024-10-13 18:00:00 +0100
 categories: [Python, Tutorial]
-tags: [python-metaclasses]
+tags: [python,metaclasses]
 tok: true
 ---
 
