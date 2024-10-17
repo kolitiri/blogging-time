@@ -8,6 +8,7 @@ tags: [python,statemachines]
 tok: true
 ---
 
+---
 I am currently experimenting with state machines and I wanted to roll my own implementation just for fun!
 
 There are a number of state machine libraries in python and I believe the most popular one is the [python-statemachine](https://python-statemachine.readthedocs.io/en/latest/) by Fernando Macedo (fgmacedo). It is in active development and has a decent amount of stars and a lot of contributors.
