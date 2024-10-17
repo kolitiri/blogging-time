@@ -8,6 +8,7 @@ tags: [python,pytest]
 tok: true
 ---
 
+---
 [Pytest](https://docs.pytest.org/en/7.1.x/contents.html) is a great tool as it offers tones of functionality for writing tests quickly and reliably.
 
 One of the features I love the most is that it allows you to easily parametrize your tests and run them against multiple scenarios.
