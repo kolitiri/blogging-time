@@ -1,7 +1,13 @@
 ---
 title: Python Metaclasses to the rescue
-date: 13/10/2024
-tags: [python]
+description: >-
+  Using Python metaclasses to add extra functionality to a class
+author: Christos Liontos
+date: 2024-10-13
+categories: [Python, Tutorial]
+tags: [python-metaclasses]
+pin: true
+media_subpath: '/posts/20180809'
 ---
 
 # Python Metaclasses to the rescue [13/10/2024]
