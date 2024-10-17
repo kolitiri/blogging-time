@@ -3,12 +3,10 @@ title: A naive State Machine
 description: >-
   Implementing a naive state machine for fun
 date: 2024-10-20 18:00:00 +0100
-categories: [Python, Tutorial]
+categories: [Python]
 tags: [python,state-machine]
 tok: true
 ---
-
-# A naive State Machine
 
 I am currently experimenting with state machines and I wanted to roll my own implementation just for fun!
 
