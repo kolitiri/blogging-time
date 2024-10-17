@@ -8,8 +8,7 @@ tags: [python,metaclasses]
 tok: true
 ---
 
-## How it started
-
+---
 I recently faced the challenge of building a test suite for stress testing certain components of an application.
 
 The idea was to generate a huge load of fake data and feed them to an internal system in order to evaluate the performance and scalability of the application.
