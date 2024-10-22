@@ -15,7 +15,7 @@ There are a number of state machine libraries in python and I believe the most p
 
 One thing I didn't quite like however was the fact that it uses naming conventions for certain functions.
 
-For example, given a TrafficLight and a Cyclist, the cyclist class can implement the following functions `before_cycle`, `on_enter_red`, and `on_exit_red` where the `before_`, `on_ender_` and `on_exit_` are conventional prefixes that need to be respected.
+For example, given a TrafficLight and a Cyclist, the cyclist class can implement the following functions `before_cycle`, `on_enter_red`, and `on_exit_red` where the `before_`, `on_enter_` and `on_exit_` are conventional prefixes that need to be respected.
 
 Now, bear in mind that I might have very likely misunderstood the usage of the library, since I haven't actually used it, but oh well.. I guess I was just trying to find an excuse to write some code in my spare time.
 
@@ -551,6 +551,7 @@ def on_being_chased(self, event: Event) -> None:
 But I'll leave that open to your imagination!
 
 ## Conclusion
+You can find the source code in my github repository [naive-state-machine](https://github.com/kolitiri/naive-state-machine), along with a few examples to experiment with.
 
 By no means, this version is buggy and requires some extra polishing.
 
