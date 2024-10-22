@@ -365,7 +365,7 @@ class PoliceCarState(State):
     CHASING = "CHASING"
 ```
 
-The `TrafficLight` should be able to broadcast changes to its state, hence we pass `braodcast=True` to all its actions.
+The `TrafficLight` should be able to broadcast changes to its state, hence we pass `broadcast=True` to all its actions.
 
 ```python
 class TrafficLight(StateMachine):
