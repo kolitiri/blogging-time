@@ -470,6 +470,7 @@ Given that:
 - A traffic light is currently yellow
 - A police car is chasing
 - The traffic light switches to red
+
 Then:
 - The police car ignores the red light and carries on chasing
 
@@ -500,6 +501,7 @@ Looking at the logs, the result appears to be as expected (logs are slightly tru
 Given that:
 - A traffic light is currently yellow
 - The traffic light switches to red, green and then yellow
+
 Then:
 - The cyclist and the police car stop at the red light
 - The cyclist and the police car start moving at the green light
