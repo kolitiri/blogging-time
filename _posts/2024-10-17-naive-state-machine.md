@@ -466,7 +466,7 @@ Let's see a few examples in practice.
 
 ### Scenario A
 
-Given that:
+Given:
 - A traffic light is currently yellow
 - A police car is chasing
 - The traffic light switches to red
@@ -498,7 +498,7 @@ Looking at the logs, the result appears to be as expected (logs are slightly tru
 
 ### Scenario B
 
-Given that:
+Given:
 - A traffic light is currently yellow
 - The traffic light switches to red, green and then yellow
 
