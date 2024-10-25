@@ -111,7 +111,7 @@ A unit test, on the other hand, is supposed to be testing the smallest units of 
 
 These tests should completely isolate the function to be tested by stubbing or mocking any external calls.
 
-In our example above, we can write a unit test that strictly checks the functionality of the `cleanup_transactions`, assuming that `convert_to_usd` and `convert_to_date` works as expected.
+In our example above, we can write a unit test that strictly checks the functionality of the `cleanup_transactions`, assuming that `convert_to_usd` and `convert_to_date` work as expected.
 
 ```python
 from example import cleanup_transactions
@@ -150,7 +150,7 @@ You can easily confirm that by adding a breakpoint or a print statement inside t
 ## Functional VS Unit tests
 The biggest drawback I've noticed when writing functional tests is that the deeper they get the harder it is to identify the issue when your test is breaking.
 
-Looking at the same example above, if we were to change the CURRENCY_EXCHANGE for GBP from `0.8` to `0.9`, we would get a nasty error like this:
+Looking at the same example above, if we were to change the CURRENCY_EXCHANGE for GBP from `0.8` to `0.9` and run our functional test again, we would get a nasty error like this:
 
 ```bash
 >       assert actual_transactions == expected_transactions
