@@ -3,7 +3,7 @@ title: The power of interfaces
 description: >-
   Using interfaces to achieve dependency inversion in our code
 date: 2024-11-08 07:00:00 +0100
-categories: [Python, Software Design Principles]
+categories: [Software Design Principles]
 tags: [python]
 tok: true
 ---
@@ -54,7 +54,7 @@ if __name__ == "__main__":
 ```
 Let's explain what's going on here.
 
-In line 30 we define a `MongoClient` class that can connect to a Mongo database and retrieve data. In reality, we would use a proper library like `pymongo`, or `motor` etc, but this would complicate the code a bit more so we'll keep things simple since this is not what we are focusing on right now.
+In line 4 we define a `MongoClient` class that can connect to a Mongo database and retrieve data. In reality, we would use a proper library like `pymongo`, or `motor` etc, but this would complicate the code a bit more so we'll keep things simple since this is not what we are focusing on right now.
 
 ```python
 class MongoClient:
@@ -64,7 +64,7 @@ class MongoClient:
 
 The `MongoClient` class is exposing a `find_one` method that returns the first document that matches the query provided. Again, the result here is mocked for the sake of simplicity.
 
-In line 35 we define a `Report` class that will generate our actual report information.
+In line 9 we define a `Report` class that will generate our actual report information.
 
 ```python
 class Report:
@@ -78,7 +78,7 @@ class Report:
 
 The `Report` class is instantiated by providing a DB client, in this case `MongoClient`, and is exposing a `get_user` function that uses the DB client to retrieve the information from the database.
 
-Finally, in line 44 we define a function `get_report` that takes a user_id and returns the user data.
+Finally, in line 18 we define a function `get_report` that takes a user_id and returns the user data.
 
 ```python
 def get_report(user_id: int) -> Dict[str, Any]:
