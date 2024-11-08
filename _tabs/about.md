@@ -6,7 +6,7 @@ order: 4
 
 My name is Chris!
 
-I am software engineer focused primarily on Python and I like building stuff on my spare time..
+I am a software engineer focused primarily on Python and I like building stuff on my spare time..
 
 During my professional career all these years I noticed that I particulary enjoy writting documentation, so I thought I should give blogging a chance.
 
