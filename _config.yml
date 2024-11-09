@@ -150,7 +150,7 @@ pwa:
 paginate: 6
 
 # The base URL of your site
-baseurl: "/blogging-time"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
