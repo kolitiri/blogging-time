@@ -6,6 +6,9 @@ date: 2024-10-16 18:00:00 +0100
 categories: [Python]
 tags: [python,pytest]
 tok: true
+image:
+  path: /assets/img/illustrations/parametrisation.jpg
+  alt: Parametrisation
 ---
 
 ---
