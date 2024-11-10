@@ -6,6 +6,9 @@ date: 2024-10-13 18:00:00 +0100
 categories: [Python]
 tags: [python,metaclasses]
 tok: true
+image:
+  path: /assets/img/illustrations/metaclasses.jpg
+  alt: Metaclasses
 ---
 
 ---
