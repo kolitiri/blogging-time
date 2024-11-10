@@ -6,6 +6,9 @@ date: 2024-11-08 07:00:00 +0100
 categories: [Software Design Principles]
 tags: [python]
 tok: true
+image:
+  path: /assets/img/illustrations/interfaces.jpg
+  alt: Interfaces
 ---
 
 ---
