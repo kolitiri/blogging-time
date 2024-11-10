@@ -6,6 +6,9 @@ date: 2024-10-24 21:00:00 +0100
 categories: [Python]
 tags: [python]
 tok: true
+image:
+  path: /assets/img/illustrations/functionalvsunittests.jpg
+  alt: Functional vs Unit tests
 ---
 
 ---
