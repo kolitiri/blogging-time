@@ -139,7 +139,7 @@ One important aspect of the human nature is that we tend to do better when visua
 
 Draw some diagrams, depicting the relationship between applications. What is the overall execution flow? What protocols are used for inter-communication?
 
-I am personally using [draw.io](https://app.diagrams.net/) which allows you to export the diagrams in various formats (including HTML and XML) that can easily be stored in a version controlled system.
+I am personally using [draw.io](https://app.diagrams.net/) which allows you to export the diagrams in various formats (including HTML and XML) that can easily be stored in a version control system.
 
 `Provide links to low level components`
 
