@@ -147,7 +147,7 @@ Be precise and avoid adding low level details at this stage.
 
 Instead, add links to the documentation of each individual component. This way, anyone viewing the diagrams can quickly drill down and inspect lower level entities.
 
-### Application/Library documentation
+#### Application/Library documentation
 
 This type of documentation usually refers to low level details and specifics about an individual unit.
 
