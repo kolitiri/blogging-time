@@ -3,7 +3,7 @@ title: AI Agents with Gemini and Google Colab
 description: >-
   Creating a simple AI agent using Gemini and Google Colab.
 date: 2025-03-06 08:40:00 +0100
-categories: [Python, AI hype]
+categories: [Python]
 tags: [python,ai-agents,google-colab]
 tok: true
 image:
