@@ -75,7 +75,7 @@ print(timeit.timeit(functools.partial(search_with_startswith, string, substring)
 print(timeit.timeit(functools.partial(search_with_in, string, substring), number=10_000_000))
 ```
 
-```
+```bash
 1.8934730000000854
 3.051734000000579
 ```
@@ -111,7 +111,7 @@ print(timeit.timeit(functools.partial(search_in_set, my_set, number)))
 print(timeit.timeit(functools.partial(search_in_list, my_list, number)))
 ```
 
-```
+```bash
 0.10908959999869694
 1.4462419999981648
 ```
@@ -145,7 +145,7 @@ print(timeit.timeit(functools.partial(iterate_whole_list, my_list), number=1_000
 print(timeit.timeit(functools.partial(iterate_whole_set, my_set), number=1_000_000))
 ```
 
-```
+```bash
 0.8423409999995783
 1.8966035000012198
 ```
@@ -172,7 +172,7 @@ print(timeit.timeit(with_comprehension))
 print(timeit.timeit(with_loop))
 ```
 
-```
+```bash
 9.910756899997068
 10.443588199999795
 ```
@@ -198,7 +198,7 @@ print(timeit.timeit(with_comprehension))
 print(timeit.timeit(with_loop))
 ```
 
-```
+```bash
 21.48162709999815
 22.22446790000322
 ```
@@ -228,7 +228,7 @@ print(timeit.timeit(with_loop))
 print(timeit.timeit(with_comprehension))
 ```
 
-```
+```bash
 8.440671301999942
 14.471410706000029
 ```
@@ -251,7 +251,7 @@ print(timeit.timeit(with_dict, number=100_000_000))
 print(timeit.timeit(with_curly_brackets, number=100_000_000))
 ```
 
-```
+```bash
 20.3870786999978
 27.104615200001717
 ```
@@ -316,7 +316,7 @@ print(timeit.timeit(functools.partial(with_pattern_matching, ['a', 'b', 'c']), n
 print(timeit.timeit(functools.partial(with_if_statements, ['a', 'b', 'c']), number=10_000_000))
 ```
 
-```
+```bash
 1.4475586999978987
 1.8106488999983412
 ```
@@ -345,7 +345,7 @@ print(timeit.timeit(functools.partial(use_join, _list), number=10_000_000))
 print(timeit.timeit(functools.partial(use_addition_operator, _list), number=10_000_000))
 ```
 
-```
+```bash
 2.0323625999990327
 4.058531399998174
 ```
@@ -394,7 +394,7 @@ print(timeit.timeit(iterate_using_slice, number=10_000_000))
 print(timeit.timeit(iterate_using_java, number=10_000_000))
 ```
 
-```
+```bash
 2.320015199999034
 3.6644386000007216
 3.577267700002267
