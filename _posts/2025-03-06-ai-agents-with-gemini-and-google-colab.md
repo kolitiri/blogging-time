@@ -228,3 +228,5 @@ I am pretty sure I haven't even touched the surface yet, but at least I now have
 As I mentioned earlier, the easiest way to experiment is to run these snippets in Google Colab.
 
 Also, don't forget to check out Google's [Gemini documentation](https://ai.google.dev/gemini-api/docs) as it has a lot of interesting treats in there!
+
+You can find the snippets above in this [Jupiter Notebook](/assets/notebooks/2025-03-06-ai-agents-with-gemini-and-google-colab.ipynb).
