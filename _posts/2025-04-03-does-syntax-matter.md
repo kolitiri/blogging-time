@@ -414,4 +414,4 @@ Thus, if the moment comes and you are called to "micro optimize" your code, plea
 
 And don't forget to use the **[dis](https://docs.python.org/3/library/dis.html)** package to dig deeper if necessary.
 
-You can find the snippets above in this [Jupiter Notebook](/assets/notebooks/2025-04-03-does-syntax-matter.ipynb/).
+You can find the snippets above in this [Jupiter Notebook](https://github.com/kolitiri/blogging-time/blob/main/assets/notebooks/2025-04-03-does-syntax-matter.ipynb).
