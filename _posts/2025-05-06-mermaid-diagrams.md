@@ -38,30 +38,24 @@ And this is not something negative since it forces consistency in your diagrams 
 ## Drawing a diagram
 Drawing a diagram with Marmaid.js is fairly simple.
 
-For example, adding the syntax below in a Markdown file will render a [Gantt](https://en.wikipedia.org/wiki/Gantt_chart) diagram.
+For example, adding the syntax below in a Markdown file will render a [Sequence diagram](https://en.wikipedia.org/wiki/Sequence_diagram).
 
 ```
-gantt
- title Example Gantt diagram
-    dateFormat  YYYY-MM-DD
-    section Team 1
-    Research & requirements :done, a1, 2020-03-08, 2020-04-10
-    Review & documentation : after a1, 20d
-    section Team 2
-    Implementation      :crit, active, 2020-03-25  , 20d
-    Testing      :crit, 20d
+sequenceDiagram
+    actor User
+    User->>+3rd Party Server: request
+    3rd Party Server->>+User: redirect
+    User->>+OAuth Server: approve authorization
+    OAuth Server->>+User: response
 ```
 
 ```mermaid
-gantt
- title Example Gantt diagram
-    dateFormat  YYYY-MM-DD
-    section Team 1
-    Research & requirements :done, a1, 2020-03-08, 2020-04-10
-    Review & documentation : after a1, 20d
-    section Team 2
-    Implementation      :crit, active, 2020-03-25  , 20d
-    Testing      :crit, 20d
+sequenceDiagram
+    actor User
+    User->>+3rd Party Server: request
+    3rd Party Server->>+User: redirect
+    User->>+OAuth Server: approve authorization
+    OAuth Server->>+User: response
 ```
 
 Whereas, the following syntax will render a [Flowchart](https://en.wikipedia.org/wiki/Flowchart).
