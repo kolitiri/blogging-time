@@ -6,7 +6,7 @@ date: 2024-11-20 07:10:00 +0100
 categories: [Python]
 tags: [python,fastapi]
 tok: true
-image:
+-image:
   path: /assets/img/illustrations/dependency-injection.jpg
   alt: Dependency Injection
 ---
