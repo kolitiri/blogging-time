@@ -6,7 +6,7 @@ date: 2025-03-06 08:40:00 +0100
 categories: [Python]
 tags: [python,ai-agents,google-colab]
 tok: true
-image:
+-image:
   path: /assets/img/illustrations/ai-agents-google-colab.jpg
   alt: AI Agents
 ---
