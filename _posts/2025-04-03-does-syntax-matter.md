@@ -6,7 +6,7 @@ date: 2025-04-03 06:30:00 +0100
 categories: [Python]
 tags: [python,performance]
 tok: true
-image:
+-image:
   path: /assets/img/illustrations/does-syntax-matter.jpg
 ---
 
