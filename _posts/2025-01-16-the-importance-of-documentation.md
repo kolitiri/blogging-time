@@ -6,7 +6,7 @@ date: 2025-01-16 07:10:00 +0100
 categories: [General Engineering]
 tags: [documentation]
 tok: true
-image:
+-image:
   path: /assets/img/illustrations/documentation.jpg
   alt: Documentation
 ---
