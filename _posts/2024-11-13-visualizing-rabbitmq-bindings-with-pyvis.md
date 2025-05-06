@@ -7,7 +7,7 @@ date: 2024-11-13 08:30:00 +0100
 categories: [Python]
 tags: [python,pyvis,rabbitmq]
 tok: true
-image:
+-image:
   path: /assets/img/illustrations/rabbitmq-bindings-visualization.jpg
   alt: RabbitMQ-PyVis
 ---
