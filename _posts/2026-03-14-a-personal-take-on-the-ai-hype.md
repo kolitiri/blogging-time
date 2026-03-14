@@ -4,7 +4,6 @@ description: >-
   My two cents
 date: 2026-03-14 12:00:00 +0100
 categories: [General Engineering]
-tags: []
 tok: true
 ---
 
