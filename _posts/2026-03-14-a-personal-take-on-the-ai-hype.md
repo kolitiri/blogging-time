@@ -32,7 +32,7 @@ AI "experts" are sprouting up everywhere, often peddling illusions which couln't
 
 Managers push engineers to integrate with AI simply so they can present something impressive to executives.
 
-In some cases, organisations are even firing employees throwing away years worth of domain knowlege, driven by baseless assumptions they can cut down labor expenses.
+In some cases, organisations are even firing employees throwing away years worth of domain knowlege, driven by baseless assumptions that they can cut down labor expenses.
 
 And it really baffles me that most often than not, those decisions are made without the slightest clue of what the long term implications could be.
 
@@ -54,7 +54,7 @@ As much impressive as the power of AI might seem at the moment, the catch is tha
 
 Well structured codebases, thoughtful architectures, AI friendly processes and carefully designed failsafes can pave the way for AI to thrive.
 
-But the reality is that organisations are messy. Their systems are layered with years, if not decades, of technical debt and it feels like impulsively integrating them with AI could only exacerbate the situation.
+But the reality is that organisations are messy. Their systems are layered with years, if not decades, of technical debt and it feels like aggressively integrating them with AI could only exacerbate the situation.
 
 The foundations are just not there yet and it often feels like we’re trying to skip several evolutionary steps.
 
@@ -90,9 +90,11 @@ Does that qualify as cognitive intelligence? I don’t think so. Not yet at leas
 
 Can it render human workers obsolete? I don’t think so either. Neither do I think we should be trying to do so.
 
-I feel there is a middle ground, that can benefit both the employees and the organisations' capitalistic hunger for profit.
+It's just a tool like any other that, when supervised and used responsibly, can increase productivity and generate results in a faster pace.
 
-That being said, instead of jumping the gun and going all in, we should be trying to make the best possible use of AI we can at the moment, while we are still in the process of laying the foundations.
+Thus, I feel there is a middle ground, that can massively benefit both the workers and the organisations' capitalistic hunger for profit without intersecting the two lines together.
+
+That being said, instead of jumping the gun and going all in, we should be trying to make the best possible use of AI we can at the moment, while we are still in the process of understanding the limitations and laying the foundations.
 
 
 ## How I actually use AI
@@ -132,26 +134,28 @@ Now, as I mentioned earlier, chances are that the majority of engineers work on 
 
 I'm sure you've already found yourself in a situation where a single prompt can cause havoc, making wild changes that aren't just hallucinations, but also impossible to review and reason about.
 
+And you should not forget the fact that we are engineers and we are still knowledgable enough to handle such situations, which is what makes my blood boil when certain people are trying to convince us that within a few years anyone would be able to produce high quality and maintainable software.
+
 But this is precisely the moment where the point I am trying to make becomes obvious.
 
-We shouldn't expect AI to fix up the mess at the first place. It's just too much to ask yet and it doesn't do it justice.
+We shouldn't expect AI to act on our behalf, take up our responsibilities or fix up the mess at the first place. It's just too much to ask yet and it doesn't do it justice.
 
-We should instead take a step back, evaluate our architecture, understand the limitations and lay the groundwork for true AI integration in the future.
+We should instead take a step back, evaluate the situation, understand the limitations and lay the groundwork for a potentially true AI integration in the future.
 
 
 
 ## Conclusion
 If I had to summarise my experience in a single sentence, it would be this:
 
-*"AI doesn’t replace engineering expertise, nor does it remove the need for critical thinking."*
+*"AI doesn’t replace human expertise, nor does it remove the need for critical thinking."*
 
-What it does extremely well is automate repetitive work. The kind of work engineers already know how to do but would rather not spend hours implementing manually, freeing up resources to focus on more important tasks and produce more output, faster.
+What it does extremely well is automate repetitive work. The kind of work we already know how to do but would rather not spend hours implementing manually, freeing up resources to focus on more important tasks and produce more output, faster.
 
-And while that may not sound revolutionary to those who preach about AI day and night, it is already a significant and practical improvement in the daily workflow of many engineers, which can masively increase productivity with minimal risks to an organisation.
+And while that may not sound revolutionary to those who preach about AI day and night, it is already a significant and practical improvement in the daily workflow of many people, engineers or not, which can masively increase productivity with minimal risks to an organisation.
 
 So my two cents would be the following:
 - Don't get caught in the hype
 - Don't throw away domain knowlege that took years to acquire
 - Don't stop investing on junior employees. They will be the future seniors you will need
 - Invest in proper education that can bring long term value rather than short term gains
-- Don't worry, there are still ways to increase your profits without taking up too much risk..
+- Don't worry, there are still ways to increase your profits without taking up too much unnecessary risk..
